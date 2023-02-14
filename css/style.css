@@ -1,0 +1,29 @@
+header {
+  display: grid;
+  place-items: center;
+  grid-template-rows: 1fr;
+}
+
+nav {
+  display: grid;
+  place-items: center;
+  grid-template-rows: 1fr;
+}
+main {
+  display: grid;
+  place-items: center;
+}
+article {
+  display: grid;
+  place-items: center;
+  grid-template-columns: 1fr 1fr;
+}
+img {
+  width: 600px;
+}
+
+footer {
+  display: grid;
+  place-items: center;
+  grid-template-rows: 1fr;
+}
